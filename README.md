@@ -1,5 +1,5 @@
 # MidievalFantasy
-A text based adventure game with many life choices
+An RPG adventure game with many life choices
 
 Don't do any of the following:
 
